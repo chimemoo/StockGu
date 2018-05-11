@@ -1,0 +1,18 @@
+nav {
+    border-bottom: #CD853F solid 4px;
+}
+
+.text {
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+#list {
+    position: absolute;
+    z-index: 2;
+}
+
+.list{
+
+}
+
